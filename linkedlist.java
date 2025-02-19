@@ -19,5 +19,15 @@ public class linkedlist {
         System.out.println("First ele in LL "+ll.getFirst());
         System.out.println("Last ele in LLL "+lll.getLast());
         System.out.println("Class of this DataType is : "+ll.getClass());
+        //removing elements using removeFirst() & removeLast();
+        ll.removeFirst();
+        ll.removeLast();
+        // other removes also there 
+        //removes the first occurrence
+        lll.removeFirstOccurrence(10);
+        //removes last occurrence
+        lll.removeLastOccurrence(20);
+
+
     }
 }
