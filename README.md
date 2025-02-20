@@ -134,5 +134,5 @@ The **Java Collection Framework (JCF)** provides a set of interfaces and classes
 | **Deque** | ✅ Yes | ✅ Yes | ❌ No |
 | **Map** | ❌ No (Keys) ✅ Yes (Values) | ❌ No (except `LinkedHashMap`) | ✅ `TreeMap` |
 
-This document covers the **Java Collection Framework** with its types and methods. Let me know if you need detailed examples! 🚀
+This repo covers the **Java Collection Framework** with its types and methods. 🚀
 
