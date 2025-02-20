@@ -32,7 +32,7 @@ public class arraylist {
         //accessing using for each loop
         for (Integer it : al) {
             System.out.println(it);
-            
         }
+        System.out.println(al.add(200));
 }
 }
